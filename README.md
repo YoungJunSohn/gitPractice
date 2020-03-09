@@ -21,3 +21,7 @@ gitPractice를 다룰 repository를 하나 생성하세요</br>
 
 &git push /*최초 push 이후부터의 push 명령어*/
 ```
+
+> ver 0.1
+버전정보를 추가하였습니다.
+
