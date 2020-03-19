@@ -22,12 +22,23 @@ gitPractice를 다룰 repository를 하나 생성하세요</br>
 &git push /*최초 push 이후부터의 push 명령어*/
 ```
 
+
+
+
+
+
+
+
 > ver 0.1<br/>
 버전정보를 추가하였습니다.
+
+<hr/>
 
 > ver 0.2<br/>
 > git 연습도중 발생한 실수 : 작업중인 Head포인터를 임의로 변경(reset)하여 push에 오류가 발생하였습니다.
 > solution : &git pull 명령어로 working copy에 remote Repository를 merge 시켜서 동기화하였습니다.
 
+<hr/>
+
 > ver 1.0.0<br/>
-tag를 이용하여 최초로 release 하였습니다.
+> tag를 이용하여 최초로 release 하였습니다.
